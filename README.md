@@ -13,8 +13,10 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"/>
 
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ajazahmad-1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ajazahmad-1.ajazahmad-1&"  />
@@ -22,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hi, there 👋</h1>
+<h1 align="center"> Hi, I'm Ajaz Ahmad </h1>
 
 ###
 <h3 align="left">👩‍💻 About Me</h3>
@@ -48,7 +50,7 @@ efficient solutions and continuously growing as a software engineer.
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 ###
 
@@ -83,14 +85,9 @@ efficient solutions and continuously growing as a software engineer.
 
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ajazahmad-1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajazahmad-1&theme=dracula" alt="Contribution graph" />
+
+
